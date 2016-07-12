@@ -1,4 +1,3 @@
-layout_spectrum: 0.3368417569436133
 typography_spectrum: 0.31303947255946696
 color:
   brandStrength: 0.09673266112804413
@@ -6,9 +5,15 @@ color:
   saturation: 0.628005844540894
   rhythmicContrast: 0.6854510155972093
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.3368417569436133
+author:
+  name: rrbusiness
+  email: rod@rrbusiness.com.br
+  url: rrbusiness.com.br
 name: Print Post
+title: cabine de fotos
