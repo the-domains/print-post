@@ -1,16 +1,16 @@
-typography_spectrum: 0.31303947255946696
+typography_spectrum: 0.99153943057172
 color:
-  brandStrength: 0.09673266112804413
-  lightness: 0.04624521709047258
-  saturation: 0.628005844540894
-  rhythmicContrast: 0.6854510155972093
+  brandStrength: 0.3921537681017071
+  lightness: 0.7531317409593612
+  saturation: 0.006657497258856893
+  rhythmicContrast: 0.15776140778325498
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
-layout_spectrum: 0.3368417569436133
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+layout_spectrum: 0.29632701026275754
 author:
   name: rrbusiness
   email: rod@rrbusiness.com.br
