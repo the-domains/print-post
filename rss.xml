@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Print Post]]></title>
-        <description><![CDATA[Print Post]]></description>
+        <title><![CDATA[cabine de fotos]]></title>
+        <description><![CDATA[cabine de fotos]]></description>
         <link>https://thegrid.ai/print-post/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 01:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 03:20:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/print-post/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Torne seu evento memorável]]></title>
+            <description><![CDATA[<article><h1>Torne seu evento memorável</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9c82a0002b973d6fc43244ecb906c894/croprotate.png?cropheight=717&cropwidth=1276&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F41cb7ad7-7929-435b-8556-2f07877181d6.png&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/41cb7ad7-7929-435b-8556-2f07877181d6.png</link>
+            <guid isPermaLink="false">1aff2e45-a2c0-4512-80d3-aaa4069cb807</guid>
+            <pubDate>Tue, 12 Jul 2016 03:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0010388-8a9e-45ce-902a-d903c04502b7.jpg">]]></description>
