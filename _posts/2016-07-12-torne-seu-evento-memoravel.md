@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-07-12T04:31:33.388Z'
-datePublished: '2016-07-12T04:31:34.399Z'
+dateModified: '2016-07-12T04:31:35.915Z'
+datePublished: '2016-07-12T04:31:36.348Z'
 title: Torne seu evento memorável
 author: []
 sourcePath: _posts/2016-07-12-torne-seu-evento-memoravel.md
