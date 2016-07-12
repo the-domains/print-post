@@ -16,10 +16,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=clcHdFvUZbw'
 title: PrintPost no Shopping Eldorado - Dia dos Namorados
-datePublished: '2016-07-12T01:07:49.588Z'
-dateModified: '2016-07-12T01:06:57.492Z'
+datePublished: '2016-07-12T03:20:27.577Z'
+dateModified: '2016-07-12T03:20:27.282Z'
 sourcePath: _posts/2016-07-12-printpost-no-shopping-eldorado-dia-dos-namorados.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
