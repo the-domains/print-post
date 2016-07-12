@@ -1,0 +1,14 @@
+layout_spectrum: 0.3368417569436133
+typography_spectrum: 0.31303947255946696
+color:
+  brandStrength: 0.09673266112804413
+  lightness: 0.04624521709047258
+  saturation: 0.628005844540894
+  rhythmicContrast: 0.6854510155972093
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: Print Post
