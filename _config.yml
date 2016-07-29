@@ -20,4 +20,7 @@ navigation:
   - name: Instagram
     id: 417079e8-7e95-40f6-9ff1-f1f086f4bbe3
     type: content
+  - name: Fale com a gente!
+    id: a47e5e3e-7491-41e7-b65f-d629b19259f0
+    type: content
 title: Cabines de Fotos Inteligentes e Divertidas
