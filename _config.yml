@@ -16,4 +16,8 @@ author:
   email: rod@rrbusiness.com.br
   url: rrbusiness.com.br
 name: Print Post
+navigation:
+  - name: Instagram
+    id: 417079e8-7e95-40f6-9ff1-f1f086f4bbe3
+    type: content
 title: Cabines de Fotos Inteligentes e Divertidas
