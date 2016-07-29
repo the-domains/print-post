@@ -23,16 +23,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/printpost_br'
 title: PrintPost (@printpost_br) * Instagram photos and videos
-datePublished: '2016-07-12T04:34:45.529Z'
-dateModified: '2016-07-12T04:34:24.541Z'
+datePublished: '2016-07-29T00:11:21.729Z'
+dateModified: '2016-07-29T00:11:20.953Z'
 description: ''
-starred: false
 sourcePath: _posts/2016-07-12-printpost-printpost_br-instagram-photos-and-videos.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: printpost-printpost_br-instagram-photos-and-videos/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
